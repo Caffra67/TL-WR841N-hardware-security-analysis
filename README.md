@@ -18,6 +18,7 @@ This project is inspired by structured hardware hacking training from TCM Securi
 
 ## Tools
 
-
+- Ghidra
+- Nmap
 
 Device owned by the author. No client data involved.
