@@ -1,6 +1,7 @@
 # External Recon Router Devices
 
 This phase answers one question:
+
 *What can we learn about the device before touching it?*
 
 ## 1. Device Identification
