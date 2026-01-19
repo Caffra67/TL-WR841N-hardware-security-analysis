@@ -23,3 +23,6 @@ This phase answers one question:
 - WAN MAC: 98-03-8E-F1-CF-A7
 - Basic Password: 34618769
 - SSID: TP-Link_CFA7
+## 3. Power 
+
+Divace operate at 9V
