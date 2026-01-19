@@ -14,6 +14,12 @@ This phase answers one question:
 - **4** cFeon QH328-104HIP **FLASH (SPI NOR)**
 - **5** UART connection
 
-## 2.
+## 2. Router info
 
 <img width="4000" height="2252" alt="IMG_20260119_002404" src="https://github.com/user-attachments/assets/82270ec3-eddb-40b8-8034-6a9148dce07e" />
+
+- Model:TL-WR841N(PL)
+- LAN MAC: 98-03-8E-F1-CF-A6
+- WAN MAC: 98-03-8E-F1-CF-A7
+- Basic Password: 34618769
+- SSID: TP-Link_CFA7
