@@ -11,3 +11,11 @@ I first used a Comidox USB Logic Analyzer to observe the boot sequence. The only
 Later, I connected an IZOKEE CP2102 USB‑to‑UART adapter in an attempt to obtain a shell. However, in the newer firmware versions this access appears to be blocked.
 
 <img width="4000" height="2252" alt="image" src="https://github.com/user-attachments/assets/9aa1999a-30a7-47f0-8829-87f2c3406b1e" />
+
+## 2. SPI 
+
+Serial Peripheral Interface 
+
+<img width="1894" height="570" alt="image" src="https://github.com/user-attachments/assets/e419c202-92ed-4ed1-81b0-01f44e7ac083" />
+
+<img width="4000" height="2252" alt="image" src="https://github.com/user-attachments/assets/b1fac934-5bcc-4c49-bfc5-33496e24842f" />
