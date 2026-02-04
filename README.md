@@ -22,5 +22,6 @@ This project is inspired by structured hardware hacking training from TCM Securi
 - Nmap
 - flashrom
 - binwalk
+- Ghidra
 
 Device owned by the author. No client data involved.
